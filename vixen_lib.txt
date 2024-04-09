@@ -1,1 +1,2 @@
-{"version":"1.0.1","news":"Родился"}
+{"version":"1.0.1", 
+"news-ru":"Добавлен импорт утилит", "news-en":"Added import of utilities"}
