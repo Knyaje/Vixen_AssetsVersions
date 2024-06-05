@@ -1,2 +1,2 @@
-{"version":"1.0.2", 
-"news-ru":"Добавлены несколько команд для мониторинга данных скриптов Vixen", "news-en":"Added several commands to monitor Vixen script data"}
+{"version":"1.0.3", 
+"news-ru":"Добавлено интерактивное меню", "news-en":"Added interactive menu"}
